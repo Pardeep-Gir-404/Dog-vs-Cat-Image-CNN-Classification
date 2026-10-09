@@ -16,9 +16,12 @@ system that predicts whether an image contains a **Dog** or a **Cat**.
 - NumPy
 
 ## Project Structure
+
+```text
 cnn_image_classification/
 ├── train.py
 ├── predict.py
 ├── requirements.txt
 └── models/
     └── model.h5
+```
